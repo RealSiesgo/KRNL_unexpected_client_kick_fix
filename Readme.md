@@ -11,7 +11,7 @@ Option 1 (Easy Setup):
 
 Option 2 (Manual Setup):
 1) First you make a new txt file on your desktop.
-2) Then you just copy the text in: [Text Link (Goes to github so no shady stuff).](https://raw.githubusercontent.com/RealSiesgo/KRNL_unexpected_client_kick-fix/main/fixboblos.bat).
+2) Then you just copy the text in: [Text Link.](https://raw.githubusercontent.com/RealSiesgo/KRNL_unexpected_client_kick-fix/main/fixboblos.bat).
 3) Paste the raw text on the ".txt" file you created and save it
 4) Then change the ".txt" file extension to ".bat" instead of ".txt".
 5) Run the file!
