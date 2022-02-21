@@ -1,7 +1,7 @@
 **Now you have 2 Options on how to set this up.**
 
 Option 1 (Easy Setup):
-1) Press the green "Code" button near the "Go to file" button on this website.
+1) Click the green "Code" button near the "Go to file" button on this website.
 2) You will see a button named "Download ZIP" click that.
 3) Extract the "ZIP" file you downloaded to desktop.
 4) Then you remove the "Readme.md" file from the "KRNL_unexpected_client_kick-fix-main" folder.
