@@ -19,10 +19,8 @@ Option 2 (Manual Setup):
 
 If you still have issues contact krnl support.
 
+|
 
-
-**This aint no shady shit like downloads or such.**
-
-**The code is public you see the code you execute the code.**
-
-**Its that easy**
+> **This aint no shady shit like downloads or such.**
+> **The code is public you see the code you execute the code.**
+> **Its that easy**
