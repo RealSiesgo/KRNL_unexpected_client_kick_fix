@@ -1,4 +1,4 @@
-#Now you have 2 Options on how to set this up.
+**Now you have 2 Options on how to set this up.**
 
 Option 1 (Easy Setup):
 1) Press the green "Code" button near the "Go to file" button on this website.
@@ -21,6 +21,6 @@ If you still have issues contact krnl support.
 
 
 
-##This aint no shady shit like downloads or such.
-##The code is public you see the code you execute the code.
-##Its that easy
+**This aint no shady shit like downloads or such.**
+**The code is public you see the code you execute the code.**
+**Its that easy**
